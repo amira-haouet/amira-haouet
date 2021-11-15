@@ -1,7 +1,6 @@
 ## Hi there , i'm Amira from Tunisia !👋
 
 
-
 ## I'm a Student, Developer  <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/000000/external-programming-engineering-itim2101-lineal-color-itim2101.png"/>
 
 - 🌱 I’m currently learning Everything 🤣 !
