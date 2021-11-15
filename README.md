@@ -40,7 +40,7 @@
 
 [twitter]: https://twitter.com/AmiraHaouet
 [facebook]: https://www.facebook.com/htamira/
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/amirahaouet/
 [linkedin]: https://www.linkedin.com/in/amira-haouet/
 
 
