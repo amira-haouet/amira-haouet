@@ -1,14 +1,20 @@
-### Hi there , im Amira from Tunisia !👋
+### Hi there , i'm Amira from Tunisia !👋
 
 
 <!-- **amira-haouet/amira-haouet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
+## I'm a Student, Developer
 - 🌱 I’m currently learning Everything 🤣 !
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: 
--
+
+
 # Contact
+[<img src="https://img.icons8.com/color/50/4a90e2/linkedin.png"/>][linkedin]
+[][twitter]
+[<img src="https://img.icons8.com/ios-filled/48/4a90e2/facebook-circled.png"/>] [facebook]
+[][instagram]
+
 
 
 # Languages and Tools 
