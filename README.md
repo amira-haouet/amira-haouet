@@ -5,7 +5,7 @@
 
 ## I'm a Student, Developer
 - 🌱 I’m currently learning Everything 🤣 !
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: 
 
 
@@ -27,6 +27,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/symfony.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/48/4a90e2/spring-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png"/> &nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/dart.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/4a90e2/javascript--v2.png"/>
