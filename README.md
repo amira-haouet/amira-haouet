@@ -10,10 +10,10 @@
 
 
 # Contact
-[<img src="https://img.icons8.com/color/50/4a90e2/linkedin.png"/>][linkedin]
-[][twitter]
-[<img src="https://img.icons8.com/ios-filled/48/4a90e2/facebook-circled.png"/>] [facebook]
-[][instagram]
+[<img src="https://img.icons8.com/color/48/4a90e2/linkedin.png"/>][linkedin]
+[<img src="https://img.icons8.com/fluency/48/4a90e2/twitter.png"/>][twitter]
+[<img src="https://img.icons8.com/ios-filled/48/4a90e2/facebook-circled.png"/>][facebook]
+[<img src="https://img.icons8.com/fluency/48/4a90e2/instagram-new.png"/>][instagram]
 
 
 
@@ -38,8 +38,8 @@
   <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/>
 </div>
 
-[twitter]: https://twitter.com/codeSTACKr
-[facebook]: https://youtube.com/codeSTACKr
+[twitter]: https://twitter.com/AmiraHaouet
+[facebook]: https://www.facebook.com/htamira/
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/amira-haouet/
 
