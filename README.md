@@ -7,13 +7,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
-# Contact
-[<img src="https://img.icons8.com/color/48/4a90e2/linkedin.png"/>][linkedin]
-[<img src="https://img.icons8.com/fluency/48/4a90e2/twitter.png"/>][twitter]
-[<img src="https://img.icons8.com/ios-filled/48/4a90e2/facebook-circled.png"/>][facebook]
-[<img src="https://img.icons8.com/fluency/48/4a90e2/instagram-new.png"/>][instagram]
-
-
 
 # Languages and Tools 
 
@@ -40,6 +33,16 @@
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/>
 </div>
+ 
+<br>
+ <b>  CONTACT </b> 
+  <br> 
+  
+[<img src="https://img.icons8.com/color/30/4a90e2/linkedin.png"/>][linkedin]
+[<img src="https://img.icons8.com/fluency/30/4a90e2/twitter.png"/>][twitter]
+[<img src="https://img.icons8.com/ios-filled/30/4a90e2/facebook-circled.png"/>][facebook]
+[<img src="https://img.icons8.com/fluency/30/4a90e2/instagram-new.png"/>][instagram]
+
 
 [twitter]: https://twitter.com/AmiraHaouet
 [facebook]: https://www.facebook.com/htamira/
