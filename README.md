@@ -23,6 +23,10 @@
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>&nbsp; &nbsp;
 <img src="https://img.icons8.com/nolan/48/json.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/docker.png"/> &nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/>
 </div>
 
 [twitter]: https://twitter.com/codeSTACKr
