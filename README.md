@@ -4,7 +4,6 @@ I'm Amira from Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia.
 ## I'm a Student, Developer  <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/000000/external-programming-engineering-itim2101-lineal-color-itim2101.png"/>
 
 - 🌱 I’m currently learning Everything 🤣 !
-- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 
