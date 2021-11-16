@@ -1,11 +1,10 @@
-## Hi there 👋 !
-I'm Amira from Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia.png"/>
+## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> , I'm Amira from Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia.png"/>
 
-## I'm a Student, Developer  <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/000000/external-programming-engineering-itim2101-lineal-color-itim2101.png"/>
+
+## I'm a Student and Developer  <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/000000/external-programming-engineering-itim2101-lineal-color-itim2101.png"/>
 
 - 🌱 I’m currently learning Everything 🤣 !
-
-
+- 📫 How to reach me: haouetamira@gmail.com.
 
 # Languages and Tools 
 
