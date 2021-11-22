@@ -29,7 +29,8 @@
   <img src="https://img.icons8.com/nolan/48/json.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/> &nbsp; &nbsp;
+  <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
 </div>
  
 <br>
