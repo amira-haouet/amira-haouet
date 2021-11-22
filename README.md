@@ -12,6 +12,7 @@
   <img src="https://img.icons8.com/color-glass/48/4a90e2/github.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/docker.png"/> &nbsp; &nbsp;
+  <img src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/officexs/48/000000/java-eclipse.png"/>&nbsp; &nbsp;
