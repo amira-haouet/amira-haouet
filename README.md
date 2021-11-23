@@ -4,7 +4,8 @@
 ## I'm a Student and Developer  <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/>
 
 - 🌱 I’m currently learning Everything 🤣 !
-- 📫 How to reach me: haouetamira@gmail.com.
+- 📫 How to reach me: haouetamira@gmail.com. &nbsp;
+- <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> interested: DevOps
 
 # Languages and Tools 
 
