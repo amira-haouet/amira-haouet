@@ -47,11 +47,13 @@
 [<img src="https://img.icons8.com/fluency/30/4a90e2/twitter.png"/>][twitter]
 [<img src="https://img.icons8.com/ios-filled/30/4a90e2/facebook-circled.png"/>][facebook]
 [<img src="https://img.icons8.com/fluency/30/4a90e2/instagram-new.png"/>][instagram]
+[<img src="https://img.icons8.com/fluency/30/000000/discord-new-logo.png"/>][discord]
 
 
 [twitter]: https://twitter.com/AmiraHaouet
 [facebook]: https://www.facebook.com/htamira/
 [instagram]: https://www.instagram.com/amirahaouet/
 [linkedin]: https://www.linkedin.com/in/amira-haouet/
+[discord]:AmiraHaouet#6520
 
 
