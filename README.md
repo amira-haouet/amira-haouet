@@ -26,6 +26,7 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/4a90e2/javascript--v2.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/4a90e2/react-native.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> &nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>&nbsp; &nbsp;
@@ -33,7 +34,8 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/> &nbsp; &nbsp;
-  <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/50/000000/wordpress.png"/>&nbsp; &nbsp;
 </div>
  
 <br>
