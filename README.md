@@ -29,6 +29,7 @@
   <img src="https://img.icons8.com/color/48/4a90e2/react-native.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/50/000000/django.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> &nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/nolan/48/json.png"/>&nbsp; &nbsp;
