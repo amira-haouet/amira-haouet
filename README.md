@@ -18,6 +18,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/officexs/48/000000/java-eclipse.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>&nbsp; &nbsp;
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-bean-logo.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/symfony.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/officexs/48/000000/php-logo.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/4a90e2/spring-logo.png"/>&nbsp; &nbsp;
