@@ -39,7 +39,7 @@
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/> &nbsp; &nbsp;
   <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/50/000000/wordpress.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>&nbsp; &nbsp;
 </div>
  
 <br>
