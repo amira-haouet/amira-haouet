@@ -8,7 +8,7 @@
 - 🎓 I'm currently studying Computer Science at the higher Institute of Technological Studies of Nabeul, Tunisia. 
 - <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> interested: DevOps
 
-## 🛠 Tech Stack 
+## 🛠 &nbsp;Tech Stack 
 
 <div>
   <img src="https://img.icons8.com/color-glass/40/4a90e2/github.png"/>&nbsp; &nbsp;
