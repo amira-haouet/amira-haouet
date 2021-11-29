@@ -43,6 +43,16 @@
   <img src="https://img.icons8.com/color/40/000000/wordpress.png"/>&nbsp; &nbsp;
 </div>
  
+ 
+ ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/amira-haouet">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amira-haouet&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amira-haouet&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <br>
  <b>  CONTACT </b> 
   <br> 
