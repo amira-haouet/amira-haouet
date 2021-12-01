@@ -28,6 +28,7 @@ I'm a passionate Backend developer
   <img src="https://img.icons8.com/color/40/000000/html-5.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/40/000000/css3.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/40/4a90e2/javascript--v2.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/50/000000/typescript.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/40/4a90e2/react-native.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/40/000000/angularjs.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/40/000000/python--v2.png"/>&nbsp; &nbsp;
