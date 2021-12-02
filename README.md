@@ -7,7 +7,6 @@
 
 - 📫 How to reach me: haouetamira@gmail.com
 - 🌱 I’m currently learning Everything 🤣 !
--
 - <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> interested: DevOps
 
 ## 🛠 &nbsp;Tech Stack 
