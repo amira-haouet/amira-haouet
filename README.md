@@ -3,8 +3,7 @@
 🎓 I'm currently studying Computer Science at the higher Institute of Technological Studies of Nabeul, Tunisia. 
    I'm a passionate Backend & mobile developer!
 
-## I'm a Student and Developer  <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/>
-
+## <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> I'm a Student and Developer 
 - <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> interested: DevOps
 - 🌱 I’m currently learning Everything 🤣 !
 - 📫 How to reach me: haouetamira@gmail.com
