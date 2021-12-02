@@ -41,6 +41,7 @@ I'm a passionate Backend&mobile developer
   <img src="https://img.icons8.com/color/40/000000/postgreesql.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/40/000000/adobe-illustrator--v2.png"/> &nbsp; &nbsp;
   <img src="https://img.icons8.com/fluency/40/000000/android-os.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/40/000000/hadoop-distributed-file-system.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/40/000000/wordpress.png"/>&nbsp; &nbsp;
 </div>
  
