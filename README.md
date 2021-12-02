@@ -41,6 +41,7 @@
   <img src="https://img.icons8.com/fluency/35/000000/android-os.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/hadoop-distributed-file-system.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/wordpress.png"/>&nbsp; &nbsp;
+   <img src="https://img.icons8.com/color/35/000000/figma--v2.png"/>
 </div>
  
  
