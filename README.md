@@ -12,37 +12,36 @@
 ## 🛠 &nbsp;Tech Stack 
 
 <div>
-  <img src="https://img.icons8.com/color-glass/40/4a90e2/github.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/git.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/docker.png"/> &nbsp; &nbsp;
-  <img src="https://img.icons8.com/fluency/40/000000/android-studio--v3.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/android-studio--v2.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/officexs/40/000000/java-eclipse.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/symfony.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/officexs/40/000000/php-logo.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/4a90e2/spring-logo.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/flutter.png"/> &nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/dart.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/html-5.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/css3.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/4a90e2/javascript--v2.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/typescript.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/4a90e2/react-native.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/angularjs.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/python--v2.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/django.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/c-programming.png"/> &nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/firebase.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/nolan/40/json.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/mongodb.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/fluency/40/000000/mysql-logo.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/postgreesql.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/adobe-illustrator--v2.png"/> &nbsp; &nbsp;
-  <img src="https://img.icons8.com/fluency/40/000000/android-os.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/hadoop-distributed-file-system.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/40/000000/wordpress.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color-glass/35/4a90e2/github.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/git.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/docker.png"/> &nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/android-studio--v2.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/officexs/35/000000/java-eclipse.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v1.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/symfony.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/officexs/35/000000/php-logo.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/4a90e2/spring-logo.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/flutter.png"/> &nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/dart.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/html-5.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/css3.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/4a90e2/javascript--v2.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/typescript.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/4a90e2/react-native.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/angularjs.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/python--v2.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/django.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/c-programming.png"/> &nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/firebase.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/nolan/35/json.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/mongodb.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/fluency/35/000000/mysql-logo.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/postgreesql.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/adobe-illustrator--v2.png"/> &nbsp; &nbsp;
+  <img src="https://img.icons8.com/fluency/35/000000/android-os.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/hadoop-distributed-file-system.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/wordpress.png"/>&nbsp; &nbsp;
 </div>
  
  
