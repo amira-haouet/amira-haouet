@@ -54,9 +54,9 @@
 </p>
 
 <br>
- <b>  CONTACT </b> 
-  <br> 
-  
+   
+ ### CONTACT 
+   
 [<img src="https://img.icons8.com/color/30/4a90e2/linkedin.png"/>][linkedin]
 [<img src="https://img.icons8.com/fluency/30/4a90e2/twitter.png"/>][twitter]
 [<img src="https://img.icons8.com/ios-filled/30/4a90e2/facebook-circled.png"/>][facebook]
