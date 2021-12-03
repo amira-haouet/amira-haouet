@@ -16,6 +16,7 @@
   <img src="https://img.icons8.com/color/35/000000/docker.png"/> &nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/android-studio--v2.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/fluency/35/000000/android-os.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/officexs/35/000000/java-eclipse.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v1.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/symfony.png"/>&nbsp; &nbsp;
@@ -38,11 +39,10 @@
   <img src="https://img.icons8.com/color/35/000000/mongodb.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/fluency/35/000000/mysql-logo.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/postgreesql.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/35/000000/adobe-illustrator--v2.png"/> &nbsp; &nbsp;
-  <img src="https://img.icons8.com/fluency/35/000000/android-os.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/hadoop-distributed-file-system.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/35/000000/wordpress.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/figma.png"/>
+  <img src="https://img.icons8.com/color/35/000000/adobe-illustrator--v2.png"/> &nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/wordpress.png"/>&nbsp; &nbsp;
  
  
  ## ⚙️ &nbsp;GitHub Analytics
