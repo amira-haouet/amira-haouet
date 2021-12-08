@@ -5,7 +5,7 @@
 
 ## <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> I'm a Student and Developer 
 - <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> interested: DevOps
-- 🌱 I’m currently learning Everything 🤣 !
+- 🌱 I’m currently learning deep learning !
 - 📫 How to reach me: haouetamira@gmail.com
 
 ## 🛠 &nbsp;Tech Stack 
@@ -26,7 +26,7 @@
   <img src="https://img.icons8.com/color/35/000000/dart.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/html-5.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/css3.png"/>&nbsp; &nbsp;
-   <img src="https://img.icons8.com/color/35/000000/bootstrap.png"/>&nbsp; &nbsp;
+  <img src="https://img.icons8.com/color/35/000000/bootstrap.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/4a90e2/javascript--v2.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/typescript.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/4a90e2/react-native.png"/>&nbsp; &nbsp;
@@ -40,7 +40,7 @@
   <img src="https://img.icons8.com/fluency/35/000000/mysql-logo.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/postgreesql.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/hadoop-distributed-file-system.png"/>&nbsp; &nbsp;
-  <img src="https://img.icons8.com/color/35/000000/figma.png"/>
+  <img src="https://img.icons8.com/color/35/000000/figma.png"/>&nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/adobe-illustrator--v2.png"/> &nbsp; &nbsp;
   <img src="https://img.icons8.com/color/35/000000/wordpress.png"/>&nbsp; &nbsp;
  
