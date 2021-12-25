@@ -13,9 +13,9 @@
 
 <p align="center">
 <a href="https://github.com/amira-haouet">
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amira-haouet&show_icons=true&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amira-haouet&show_icons=true&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs"/>
  
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/wakatime?username=amirahaouet&theme=nightowl">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/wakatime?username=amirahaouet&theme=nightowl">
 
 </a>
 </p>
