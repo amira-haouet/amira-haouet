@@ -26,7 +26,7 @@
 
 
 
- <img width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amira-haouet&layout=compact&langs_count=8&theme=nightowl&show_icons=true"/>
+ <img width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amira-haouet&layout=compact&langs_count=8&theme=nightowl&show_icons=true"/>
  
   </p>
    
