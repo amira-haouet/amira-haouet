@@ -13,16 +13,16 @@
 
 <p align="left">
 <a href="https://github.com/amira-haouet">
-  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amira-haouet&show_icons=true&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amira-haouet&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=issues,contribs"/>
  
   
   <br>  <br>  <br>
   
- <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amira-haouet&langs_count=8&layout=compact&hide=Makefile,Less,Twig&theme=nightowl&show_icons=true">
+ <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amira-haouet&langs_count=8&layout=compact&hide=Makefile,Less,Twig&theme=nightowl&show_icons=true"> 
 
 
   
-   <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amira-haouet&layout=compact&theme=nightowl&show_icons=true"/>
+   <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amira-haouet&layout=compact&langs_count=6&theme=nightowl&show_icons=true"/>
 
 
 
