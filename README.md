@@ -13,7 +13,7 @@
 
 <p align="left">
 <a href="https://github.com/amira-haouet">
-  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amira-haouet&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amira-haouet&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=issues,contribs"/> </a>
  
   
   <br> 
