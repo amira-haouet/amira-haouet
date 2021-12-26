@@ -13,13 +13,16 @@
 
 <p align="left">
 <a href="https://github.com/amira-haouet">
-  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amira-haouet&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=issues,contribs"/> </a>
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amira-haouet&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=issues,contribs"/> </a> 
+</p>
  
   
   <br> 
   
  ## <img src="https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/30/000000/external-tools-carpentry-icongeek26-outline-colour-icongeek26.png"/>   My Programming Language
 
+  <p>
+    
  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amira-haouet&langs_count=8&layout=compact&hide=Makefile,Less,Twig&theme=nightowl&show_icons=true"> 
 
 
@@ -28,7 +31,6 @@
 
 
 
-</a>
 </p>
    
    
