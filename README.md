@@ -23,7 +23,7 @@
 
   <p>
     
- <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amira-haouet&langs_count=8&layout=compact&hide=Makefile,Less,Twig&theme=nightowl&show_icons=true">  &nbsp; &nbsp; &nbsp; &nbsp; <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amira-haouet&layout=compact&langs_count=10&hide=Makefile,Twig&theme=nightowl&show_icons=true"/>
+ <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amira-haouet&langs_count=8&layout=compact&hide=Makefile,Less,Twig,SCSS,ruby,shell,SWIFT,objective-c,kotlin&theme=nightowl&show_icons=true">  &nbsp; &nbsp; &nbsp; &nbsp; <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amira-haouet&layout=compact&langs_count=10&hide=Makefile,Twig&theme=nightowl&show_icons=true"/>
 
 
 
