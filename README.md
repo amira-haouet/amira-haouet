@@ -13,7 +13,8 @@
 
 <p align="left">
 <a href="https://github.com/amira-haouet">
-  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amira-haouet&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=issues,contribs"/> </a> 
+  <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amira-haouet&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=issues,contribs"/>   <img height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=amirahaouet&theme=nightowl"/>
+</a> 
 </p>
  
   
@@ -26,7 +27,6 @@
  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amira-haouet&langs_count=8&layout=compact&hide=Makefile,Less,Twig,SCSS,ruby,shell,SWIFT,objective-c,kotlin&theme=nightowl&show_icons=true&count_private=true">  &nbsp; &nbsp; &nbsp; &nbsp; <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amira-haouet&layout=compact&langs_count=10&hide=Makefile,Twig&theme=nightowl&show_icons=true&count_private=true"/>
 
 
-  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=amirahaouet"></a>
 
 </p>
    
