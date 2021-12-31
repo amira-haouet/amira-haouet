@@ -4,7 +4,7 @@
   
 
 ## <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> I'm a Student and Developer 
-- <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> Interested: DevOps & Data science
+- <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> Interested: AI & Data science
 - 🌱 I’m currently learning deep learning !
 - 📫 How to reach me: haouetamira@gmail.com
 
