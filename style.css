@@ -39,4 +39,6 @@
 
 .letter {
     color: rgb(255, 255, 255);
+    font-family: Snell Roundhand, cursive;
+    font-size:smaller;
 }

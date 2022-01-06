@@ -12,7 +12,7 @@ anime.timeline({ loop: true })
     })
     .add({
         targets: '.division .line',
-        translateX: [0, document.querySelector('.division .letters').getBoundingClientRect()/*DOMRect*/.width + 20],
+        translateX: [0, document.querySelector('.division .letters').getBoundingClientRect().width + 50],
 
         easing: "easeOutExpo",
         duration: 700,
