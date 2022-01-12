@@ -26,7 +26,8 @@
 
 <p align="left">
 <a href="https://github.com/amira-haouet">
- <img width="400"  src="https://github-readme-stats.vercel.app/api/wakatime?username=amirahaouet&theme=nightowl&hide=Groovy,Markdown,JSON,yaml"/> &nbsp; <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amira-haouet&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>    
+  
+  &nbsp; <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amira-haouet&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>    
 </a> 
 </p>
 
@@ -34,7 +35,7 @@
   <br> 
    
    
-   [comment]: <> (https://github-readme-stats.vercel.app/api/wakatime?username=amirahaouet)
+   [comment]: <> (https://github-readme-stats.vercel.app/api/wakatime?username=amirahaouet&theme=nightowl&hide=Groovy,Markdown,JSON,yaml)
 
 
 
