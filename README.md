@@ -1,9 +1,9 @@
-## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> , I'm Amira from Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia.png"/>
+## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> , I'm Amira from Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia.png"/>  Student and Developer <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> 
 
 🎓 **I'm currently studying Computer Science at the higher Institute of Technological Studies of Nabeul, Tunisia.**
   
 
-## <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> I'm a Student and Developer 
+
 - <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> Interested: AI & Data science
 - 🌱 I’m currently learning deep learning !
 - 📫 How to reach me: haouetamira@gmail.com
