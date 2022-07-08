@@ -1,6 +1,6 @@
 ## Hi ! I'm Amira from Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia.png"/>  Student and Developer <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> 
 
-🎓 **I'm currently studying Computer Science at the higher Institute of Technological Studies of Nabeul, Tunisia.**    
+🎓 <b> Graduated from the higher Institute of Technological Studies of Nabeul, Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia-circular.png"/>
 
    
 
