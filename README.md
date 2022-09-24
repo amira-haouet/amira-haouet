@@ -1,9 +1,9 @@
-## Hi ! I'm Amira from Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia.png"/>  Student and Developer <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> 
+## Hi ! This is Amira HAOUET ,I'm Student and Developer <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> 
 
-🎓 <b> Graduated from the higher Institute of Technological Studies of Nabeul, Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia-circular.png"/>
 
-   
+🎓 <b> Student at University of Picardie Jules Verne , Amiens <img src="https://img.icons8.com/color/25/000000/france-circular.png"/>
 
+🎓 <b> Graduated from the higher Institute of Technological Studies of Nabeul <img src="https://img.icons8.com/color/25/000000/tunisia-circular.png"/>
 
 - <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> Interested: AI & Data science
 - 🌱 I’m currently learning deep learning & Python <img src="https://img.icons8.com/color/30/000000/python--v2.png"/> ! 
