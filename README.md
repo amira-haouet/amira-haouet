@@ -7,6 +7,7 @@
 
 - <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> Interested: AI, Data science & Cyber Security
 - 🌱 I’m currently learning deep learning & Python <img src="https://img.icons8.com/color/30/000000/python--v2.png"/> ! 
+
 - 📫 How to reach me: haouetamira@gmail.com
 
   
