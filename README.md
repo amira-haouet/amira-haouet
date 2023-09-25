@@ -3,7 +3,7 @@
 
 - 🎓 <b>Software Engineering Student at Sorbonne Nord University <img src="https://img.icons8.com/color/25/000000/france-circular.png"/></b>
 
-- <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> Interested: AI, Web Dev & Cyber Security
+- <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> Interested: AI, Software Development
 - 🌱 I’m currently learning deep learning & Python <img src="https://img.icons8.com/color/30/000000/python--v2.png"/> ! 
 
 - 📫 How to reach me: haouetamira@gmail.com
