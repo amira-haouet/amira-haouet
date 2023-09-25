@@ -1,7 +1,7 @@
 ## Hi ! This is Amira HAOUET ,I'm Student and Developer <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> 
 
 
-🎓 <b>Engineering student at Sorbonne Nord University <img src="https://img.icons8.com/color/25/000000/france-circular.png"/></b>
+- 🎓 <b>Engineering student at Sorbonne Nord University <img src="https://img.icons8.com/color/25/000000/france-circular.png"/></b>
 
 - <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> Interested: AI, Web Dev & Cyber Security
 - 🌱 I’m currently learning deep learning & Python <img src="https://img.icons8.com/color/30/000000/python--v2.png"/> ! 
